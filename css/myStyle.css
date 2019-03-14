@@ -85,18 +85,9 @@ header td.name {
   width: 100%;
 }
 
-#photo {
-  overflow: hidden;
-}
-
 #photo, #photo img {
-  width: 250px;
+  width: 200px;
   height: 250px;
-}
-
-/* Hide the sunshine photo so that the cookie photo displays. */
-#photo:hover #sunshine {
-  display: none;
 }
 
 #current-work, #past-work {
