@@ -126,8 +126,8 @@ header td.name {
 
 .card .date-range {
   position: absolute;
-  color: gray;
-  right: 20px;
+  color: black;
+  right: 170px;
   top: 2px;
 }
 
@@ -165,7 +165,7 @@ header td.name {
 }
 
 .icon img {
-  width: 100px;
+  width: 200px;
   height: 100px;
 }
 
