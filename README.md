@@ -1,3 +1,3 @@
 # vvroul.github.io 
 
-My personal github webpage.
+Welcome. Welcome to my personal Github webpage.
