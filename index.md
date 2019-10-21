@@ -4,7 +4,24 @@ layout: default
 
 # It seems as if you only just arrived
 
-Vrouliotis Vasileios : Trying to make life easier
+
+## About me
+
+> Trying to make life easier
+>
+> [CV](.https://my.pcloud.com/publink/show?code=XZ9DI4kZfBARDObyEWkjvRD1xoWCbBMAIVN7)
+>
+> LinkedIn : https://www.linkedin.com/in/vvrouliotis/
+>
+> GitHub : https://github.com/vvroul
+>
+> Twitter : https://twitter.com/vvroul
+>
+> Steam : https://steamcommunity.com/id/vvroul/
+>
+> Email : vvrouliotis@gmail.com
+
+
 
 
 
