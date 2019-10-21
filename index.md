@@ -8,6 +8,8 @@ layout: default
 ## About me
 
 > Trying to make life easier
+>
+> Email : vvrouliotis@gmail.com
 
 * [CV](https://my.pcloud.com/publink/show?code=XZ9DI4kZfBARDObyEWkjvRD1xoWCbBMAIVN7)
 
@@ -19,7 +21,6 @@ layout: default
 
 * [Steam](https://steamcommunity.com/id/vvroul/)
 
-* [Email](vvrouliotis@gmail.com)
 
 
 
