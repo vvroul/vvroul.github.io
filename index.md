@@ -5,21 +5,42 @@ layout: default
 # It seems as if you only just arrived
 
 
-## About me
+## Me
 
 > Trying to make life easier
 >
-> Email : vvrouliotis@gmail.com
+> Ask me anything at : vvrouliotis@gmail.com
 
-* [CV](https://my.pcloud.com/publink/show?code=XZ9DI4kZfBARDObyEWkjvRD1xoWCbBMAIVN7)
+* My [CV](https://my.pcloud.com/publink/show?code=XZ9DI4kZfBARDObyEWkjvRD1xoWCbBMAIVN7)
 
 * [LinkedIn](https://www.linkedin.com/in/vvrouliotis/)
 
-* [GitHub](https://github.com/vvroul)
+* Find my [projects](https://github.com/vvroul)
 
-* [Twitter](https://twitter.com/vvroul)
+* Some [Tweet](https://twitter.com/vvroul) fun
 
 * [Steam](https://steamcommunity.com/id/vvroul/)
+
+
+* * *
+
+
+## Games
+
+Dragon's Path
+
+Qwebra 
+
+Macho Rampage 
+
+Now What?
+
+* * *
+
+
+## Mods
+
+Don't Starve - Abathur Mod
 
 
 
