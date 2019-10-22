@@ -10,16 +10,16 @@ layout: default
 > Trying to make life easier
 >
 > Ask me anything at : vvrouliotis@gmail.com
-
-* My [CV](https://my.pcloud.com/publink/show?code=XZ9DI4kZfBARDObyEWkjvRD1xoWCbBMAIVN7)
-
-* [LinkedIn](https://www.linkedin.com/in/vvrouliotis/)
-
-* Find my [projects](https://github.com/vvroul)
-
-* Some [Tweet](https://twitter.com/vvroul) fun
-
-* [Steam](https://steamcommunity.com/id/vvroul/)
+>
+>My [CV](https://my.pcloud.com/publink/show?code=XZ9DI4kZfBARDObyEWkjvRD1xoWCbBMAIVN7)
+>
+> [LinkedIn](https://www.linkedin.com/in/vvrouliotis/)
+>
+> Find my [projects](https://github.com/vvroul)
+>
+> Some [Tweet](https://twitter.com/vvroul) fun
+>
+> [Steam](https://steamcommunity.com/id/vvroul/)
 
 
 * * *
@@ -27,24 +27,24 @@ layout: default
 
 ## Games
 
-Dragon's Path
+> [Dragon's Path](https://github.com/vvroul/Dragon-s-Path)
+>
+>[Qwebra](https://gamejolt.com/games/qwebra/39922)
+>
+>[Macho Rampage](https://gamejolt.com/games/macho-rampage/79964)
+>
+>[Now What?](https://gamejolt.com/games/macho-rampage/79964)
 
-Qwebra 
-
-Macho Rampage 
-
-Now What?
 
 * * *
 
 
 ## Mods
 
-Don't Starve - Abathur Mod
+>[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod)
 
 
-
-
+* * *
 
 
 ```
