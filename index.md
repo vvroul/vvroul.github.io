@@ -52,6 +52,8 @@ layout: default
 
 >[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod)
 
+![ABATHUR](./assets/images/aba.jpg)
+
 
 * * *
 
