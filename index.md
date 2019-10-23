@@ -27,12 +27,15 @@ layout: default
 
 ## Games
 
-> [Dragon's Path](https://github.com/vvroul/Dragon-s-Path)
->
+
+> #### My first game ever : [Dragon's Path](https://github.com/vvroul/Dragon-s-Path)
+
+![DP](/path/image.jpg)
+
 >[Qwebra](https://gamejolt.com/games/qwebra/39922)
->
+
 >[Macho Rampage](https://gamejolt.com/games/macho-rampage/79964)
->
+
 >[Now What?](https://gamejolt.com/games/macho-rampage/79964)
 
 
