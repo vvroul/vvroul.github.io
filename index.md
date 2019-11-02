@@ -24,6 +24,18 @@ layout: default
 
 * * *
 
+## Current Projects
+
+>
+> [QolC Programming Language](https://github.com/qolc-lang/QolC)
+
+> [Overtaken](https://github.com/vvroul/Overtaken)
+
+> [Eternal Darkness](https://github.com/vvroul/eternal_darkness)
+
+
+* * *
+
 
 ## Games
 
@@ -56,6 +68,10 @@ layout: default
 
 
 * * *
+
+## Demos
+
+> [3D RTS Demo](https://github.com/vvroul/3D-rts-demo)
 
 
 ```
