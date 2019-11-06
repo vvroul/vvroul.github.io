@@ -15,7 +15,7 @@ layout: default
 >
 > [LinkedIn](https://www.linkedin.com/in/vvrouliotis/)
 >
-> Find my [projects](https://github.com/vvroul)
+> Find my [projects](https://github.com/vvroul?tab=repositories)
 >
 > Some [Tweet](https://twitter.com/vvroul) fun
 >
@@ -27,11 +27,11 @@ layout: default
 ## Current Projects
 
 >
-> [QolC Programming Language](https://github.com/qolc-lang/QolC)
+> [QolC Programming Language](https://github.com/qolc-lang/QolC) : building my own programming language for fun!
 >
-> [Overtaken](https://github.com/vvroul/Overtaken)
+> [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod / currently playing with maps
 >
-> [Eternal Darkness](https://github.com/vvroul/eternal_darkness)
+> [Eternal Darkness](https://github.com/vvroul/eternal_darkness) : my first Cod Waw Zombies map
 
 
 * * *
