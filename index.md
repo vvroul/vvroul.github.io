@@ -73,6 +73,7 @@ layout: default
 
 > [3D RTS Demo](https://github.com/vvroul/3D-rts-demo)
 
+![3DRTS](./assets/images/rts.jpg)
 
 ```
 And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to my webpage. It's safer here.
