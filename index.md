@@ -75,6 +75,10 @@ layout: default
 
 ![3DRTS](./assets/images/rts.jpg)
 
+> [LastOneLoses](https://github.com/vvroul/LastOneLoses)
+
+![3DRTS](./assets/images/last_one_loses.jpg)
+
 ```
 And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to my webpage. It's safer here.
 ```
