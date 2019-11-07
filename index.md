@@ -4,6 +4,9 @@ layout: default
 
 # It seems as if you only just arrived
 
+[Games](#Games)
+
+
 
 ## Me
 
