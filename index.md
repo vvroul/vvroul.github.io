@@ -4,8 +4,7 @@ layout: default
 
 # It seems as if you only just arrived
 
-[Games](#Games)
-
+[Games](#games)
 
 
 ## Me
@@ -81,6 +80,7 @@ layout: default
 > [LastOneLoses](https://github.com/vvroul/LastOneLoses)
 
 ![3DRTS](./assets/images/last_one_loses.jpg)
+
 
 ```
 And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to my webpage. It's safer here.
