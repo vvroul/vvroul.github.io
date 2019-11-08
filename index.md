@@ -4,7 +4,7 @@ layout: default
 
 # It seems as if you only just arrived
 
-[Games](#games)
+[About Me](#me) - [Working on](#current-projects) - [Games](#games) - [Mods](#mods) - [Demos](#demos)
 
 
 ## Me
