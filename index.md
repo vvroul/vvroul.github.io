@@ -4,7 +4,7 @@ layout: default
 
 # It seems as if you only just arrived
 
-[About Me](#me) - [Working on](#current-projects) - [Games](#games) - [Mods](#mods) - [Demos](#demos)
+[About Me](#me) - [Working on](#current-projects) - [Games](#games) - [Demos](#demos)
 
 
 ## Me
@@ -31,10 +31,23 @@ layout: default
 >
 > [QolC Programming Language](https://github.com/qolc-lang/QolC) : building my own programming language for fun!
 >
-> [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod / currently playing with maps
->
+***
+Mods
+
+> [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod 
+
+Work in progress : 
+![OVERTAKEN](./assets/images/overtaken.jpg)
+
 > [Eternal Darkness](https://github.com/vvroul/eternal_darkness) : my first Cod Waw Zombies map
 
+Work in progress : 
+![DARKNESS](./assets/images/eternal_darkness.jpg)
+
+>[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod) : Abathur is coming in DS
+
+Work in progress : 
+![ABATHUR](./assets/images/aba.jpg)
 
 * * *
 
@@ -57,16 +70,6 @@ layout: default
 >[Now What?](https://globalgamejam.org/2015/games/now-what-1)
 
 ![NOW_WHAT](./assets/images/now_what.jpg)
-
-
-* * *
-
-
-## Mods
-
->[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod)
-
-![ABATHUR](./assets/images/aba.jpg)
 
 
 * * *
