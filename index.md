@@ -28,10 +28,11 @@ layout: default
 
 ## Current Projects
 
->
+
 > [QolC Programming Language](https://github.com/qolc-lang/QolC) : building my own programming language for fun!
 >
 ***
+
 Mods
 
 > [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod 
