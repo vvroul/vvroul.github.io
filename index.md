@@ -4,7 +4,7 @@ layout: default
 
 # It seems as if you only just arrived
 
-[About Me](#me) - [Working on](#current-projects) - [Games](#games) - [Demos](#demos)
+[About Me](#me) - [Working on](#current-projects) - [Games](#games) - [Novels](#visual-novels) - [Demos](#demos)
 
 
 ## Me
@@ -75,6 +75,13 @@ Work in progress :
 
 ![NOW_WHAT](./assets/images/now_what.jpg)
 
+* * *
+
+## Visual Novels
+
+> [Mystery in the Agora](https://pergamos.lib.uoa.gr/uoa/dl/object/2073223) : A Visual Novel for my thesis
+
+> [Connection Established](https://github.com/vvroul/connection_established_vn) : Visual Novel about a parallel universe story
 
 * * *
 
