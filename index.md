@@ -81,7 +81,11 @@ Work in progress :
 
 > [Mystery in the Agora](https://pergamos.lib.uoa.gr/uoa/dl/object/2073223) : A Visual Novel for my thesis
 
+![MYSTERY_IN_THE_AGORA](./assets/images/mystery.jpg)
+
 > [Connection Established](https://github.com/vvroul/connection_established_vn) : Visual Novel about a parallel universe story 
+
+![CONNECTION_ESTABLISHED](./assets/images/connection_established.jpg)
 
 * * *
 
