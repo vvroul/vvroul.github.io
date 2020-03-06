@@ -38,7 +38,8 @@ layout: default
 Work in progress : 
 
 ![ALTERATION_RPG](./assets/images/alteration.jpg)
-***
+
+* * *
 
 Mods
 
