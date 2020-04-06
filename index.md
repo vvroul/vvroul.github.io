@@ -29,9 +29,18 @@ layout: default
 ## Current Projects
 
 
+* * *
+
+Software
+
 > [QolC Programming Language](https://github.com/qolc-lang/QolC) : building my own programming language for fun!
 
+* * *
 
+
+* * *
+
+Games
 
 >[Alteration RPG](https://github.com/vvroul/AlterationRPG) : making a dark RPG using RPG Maker MV
 
