@@ -38,24 +38,6 @@ Work in progress :
 ![ALTERATION_RPG](./assets/images/alteration.jpg)
 
 
-> [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod 
-
-Work in progress : 
-
-![OVERTAKEN](./assets/images/overtaken.jpg)
-
-> [Eternal Darkness](https://github.com/vvroul/eternal_darkness) : my first Cod Waw Zombies map
-
-Work in progress : 
-
-![DARKNESS](./assets/images/eternal_darkness.jpg)
-
->[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod) : Abathur is coming in DS
-
-Work in progress : 
-
-![ABATHUR](./assets/images/aba.jpg)
-
 * * *
 
 
@@ -101,6 +83,28 @@ Work in progress :
 > [LastOneLoses](https://github.com/vvroul/LastOneLoses)
 
 ![3DRTS](./assets/images/last_one_loses.jpg)
+
+* * *
+
+## Mods
+
+> [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod 
+
+Work in progress : 
+
+![OVERTAKEN](./assets/images/overtaken.jpg)
+
+> [Eternal Darkness](https://github.com/vvroul/eternal_darkness) : my first Cod Waw Zombies map
+
+Work in progress : 
+
+![DARKNESS](./assets/images/eternal_darkness.jpg)
+
+>[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod) : Abathur is coming in DS
+
+Work in progress : 
+
+![ABATHUR](./assets/images/aba.jpg)
 
 
 ```
