@@ -51,10 +51,6 @@ Mods
 
 ![ABATHUR](./assets/images/aba.jpg)
 
->[Alteration RPG](https://github.com/vvroul/AlterationRPG) : making a dark RPG using RPG Maker MV
-
-![ALTERATION_RPG](./assets/images/alteration.jpg)
-
 
 * * *
 
