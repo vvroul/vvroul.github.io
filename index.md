@@ -27,10 +27,6 @@ layout: default
 ## Current Projects
 
 
-* * *
-
-Software
-
 > [QolC Programming Language](https://github.com/qolc-lang/QolC) : building my own programming language for fun!
 
 * * *
@@ -54,6 +50,11 @@ Mods
 >[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod) : Abathur is coming in DS
 
 ![ABATHUR](./assets/images/aba.jpg)
+
+>[Alteration RPG](https://github.com/vvroul/AlterationRPG) : making a dark RPG using RPG Maker MV
+
+![ALTERATION_RPG](./assets/images/alteration.jpg)
+
 
 * * *
 
