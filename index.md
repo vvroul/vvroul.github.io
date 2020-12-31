@@ -4,7 +4,7 @@ layout: default
 
 # It seems as if you only just arrived
 
-[About Me](#me) - [Working on](#current-projects) - [Games](#games) - [Novels](#visual-novels) - [Demos](#demos)
+[About Me](#me) - [Working on](#current-projects) - [Mods](#mods) - [Games](#games) - [Novels](#visual-novels) - [Demos](#demos)
 
 
 ## Me
@@ -27,17 +27,9 @@ layout: default
 ## Current Projects
 
 
-> [QolC Programming Language](https://github.com/qolc-lang/QolC) : building my own programming language for fun!
-
 * * *
 
-Games
-
---- UNDER CONSTRUCTION ---
-
-* * *
-
-Mods
+## Mods
 
 > [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod 
 
