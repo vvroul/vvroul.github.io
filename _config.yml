@@ -2,4 +2,4 @@ title: Vrouliotis Vasileios
 description: Welcome. Welcome to my personal Github webpage.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: lewismiddleton/cayman-dark
