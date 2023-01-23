@@ -2,71 +2,43 @@
 layout: default
 ---
 
-# It seems as if you only just arrived
+# <div style="color:bisque"> Vrouliotis Vasileios </div> <div style="font-size: 22px; margin-top: 4px;"> Game Designer / Software Engineer</div>
 
-[About Me](#me) - [Working on](#current-projects) - [Mods](#mods) - [Games](#games) - [Novels](#visual-novels) - [Demos](#demos)
-
-
-## Me
-
-> Trying to make life easier
->
-> Ask me anything at : vvrouliotis@gmail.com
->
->
-> [LinkedIn](https://www.linkedin.com/in/vvrouliotis/)
->
-> Find my [projects](https://github.com/vvroul?tab=repositories)
->
-> Some [Tweet](https://twitter.com/vvroul) fun
->
-
-
-* * *
+[Current Projects](#current-projects) &nbsp; &nbsp; | &nbsp; &nbsp; [Games](#games) &nbsp; &nbsp; | &nbsp; &nbsp; [Mods](#mods) &nbsp; &nbsp; | &nbsp; &nbsp;[Visual Novels](#visual-novels)&nbsp; &nbsp; | &nbsp; &nbsp; [Demos](#demos) &nbsp; &nbsp; | &nbsp; &nbsp; [About](#me) &nbsp; &nbsp; | &nbsp; &nbsp; [Contact](#contact)
 
 ## Current Projects
 
-
-* * *
-
-## Mods
-
-> [Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod 
-
-![OVERTAKEN](./assets/images/overtaken.jpg)
-
-> [Eternal Darkness](https://github.com/vvroul/eternal_darkness) : my first Cod Waw Zombies map
-
-![DARKNESS](./assets/images/eternal_darkness.jpg)
-
->[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod) : Abathur is coming in DS
-
-![ABATHUR](./assets/images/aba.jpg)
-
-
-* * *
-
-
 ## Games
 
-
-> #### My first game ever : [Dragon's Path](https://github.com/vvroul/Dragon-s-Path)
+[Dragon's Path](https://github.com/vvroul/Dragon-s-Path)
 
 ![DP](./assets/images/dp.jpg)
 
->[Qwebra](https://gamejolt.com/games/qwebra/39922)
+[Qwebra](https://gamejolt.com/games/qwebra/39922)
 
 ![QWEBRA](./assets/images/qwebra.jpg)
 
->[Macho Rampage](https://gamejolt.com/games/macho-rampage/79964)
+[Macho Rampage](https://gamejolt.com/games/macho-rampage/79964)
 
 ![MACHO](./assets/images/macho_rampage.jpg)
 
->[Now What?](https://globalgamejam.org/2015/games/now-what-1)
+[Now What?](https://globalgamejam.org/2015/games/now-what-1)
 
 ![NOW_WHAT](./assets/images/now_what.jpg)
 
-* * *
+## Mods
+
+[Overtaken](https://github.com/vvroul/Overtaken) : my first Half Life 2 mod
+
+![OVERTAKEN](./assets/images/overtaken.jpg)
+
+[Eternal Darkness](https://github.com/vvroul/eternal_darkness) : my first Cod Waw Zombies map
+
+![DARKNESS](./assets/images/eternal_darkness.jpg)
+
+[Don't Starve - Abathur Mod](https://github.com/vvroul/abathur-mod) : Abathur is coming in DS
+
+![ABATHUR](./assets/images/aba.jpg)
 
 ## Visual Novels
 
@@ -74,11 +46,9 @@ layout: default
 
 ![MYSTERY_IN_THE_AGORA](./assets/images/mystery.jpg)
 
-> [Connection Established](https://github.com/vvroul/connection_established_vn) : Visual Novel about a parallel universe story 
+> [Connection Established](https://github.com/vvroul/connection_established_vn) : Visual Novel about a parallel universe story
 
 ![CONNECTION_ESTABLISHED](./assets/images/connection_established.jpg)
-
-* * *
 
 ## Demos
 
@@ -90,11 +60,6 @@ layout: default
 
 ![3DRTS](./assets/images/last_one_loses.jpg)
 
->[Alteration RPG](https://github.com/vvroul/AlterationRPG) 
+> [Alteration RPG](https://github.com/vvroul/AlterationRPG)
 
 ![ALTERATION_RPG](./assets/images/alteration.jpg)
-
-
-```
-And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to my webpage. It's safer here.
-```
