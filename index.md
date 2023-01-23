@@ -2,23 +2,17 @@
 layout: default
 ---
 
-# It seems as if you only just arrived
+# Vrouliotis Vasileios
 
-[About Me](#me) | [Current Projects](#current-projects) | [Mods](#mods) | [Games](#games) | [Novels](#visual-novels) | [Demos](#demos)
+[About & Resume](#me) &nbsp; / &nbsp; [Current Projects](#current-projects) &nbsp; / &nbsp; [Mods](#mods) &nbsp; / &nbsp; [Games](#games) &nbsp; / &nbsp; [Novels](#visual-novels) &nbsp; / &nbsp; [Demos](#demos)
 
-## Me
+## In progress projects
 
-Trying to make life easier
+[Land of Crystals](https://landofcrystalsgame.tumblr.com/)
 
-Ask me anything at : vvrouliotis@gmail.com
+> collectathon/exploration game about overcoming your vulnerabilities by collecting and cleansing a wide variety of healing crystals.
 
-[LinkedIn](https://www.linkedin.com/in/vvrouliotis/)
-
-Find my [projects](https://github.com/vvroul?tab=repositories)
-
-Some [Tweet](https://twitter.com/vvroul) fun
-
-## Current Projects
+![LOC](./assets/images/loc.jpg)
 
 ## Mods
 
@@ -76,6 +70,14 @@ Some [Tweet](https://twitter.com/vvroul) fun
 
 ![ALTERATION_RPG](./assets/images/alteration.jpg)
 
-```
-And so, whether you are here to stay, or passing through on your way to parts unknown, welcome to my webpage. It's safer here.
-```
+## About Me
+
+Trying to make life easier
+
+Ask me anything at : vvrouliotis@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/vvrouliotis/)
+
+Find my [projects](https://github.com/vvroul?tab=repositories)
+
+Some [Tweet](https://twitter.com/vvroul) fun
